@@ -1,14 +1,15 @@
 # 日本語のキーボードレイアウトの比較ツール
 
-## 打鍵効率の目安
+## 打鍵数の目安
 
-https://esrille.github.io/keyboard-layout-comparison/
+日本語入力方式の性能を比較します。
 
-いくつかの日本語入力方式の特徴を、実際に例文を入力してしらべられます。
+- 例文にもとづく解析: https://mobitan.github.io/keyboard-layout-comparison/
+- 頻度表にもとづく解析: https://mobitan.github.io/keyboard-layout-comparison/freq.html
 
 ## 打鍵時間の測定
 
- https://esrille.github.io/keyboard-layout-comparison/keytime.html
+https://esrille.github.io/keyboard-layout-comparison/keytime.html
 
 2つのキーをつづけておすのに要する時間を計測できます。
 
