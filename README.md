@@ -1,11 +1,35 @@
 # 日本語のキーボードレイアウトの比較ツール
 
+頻度表データは国立国語研究所の現代日本語書き言葉均衡コーパス「中納言」版公開データの短単位語彙表 (Version 1.1) を利用しています。
+
+- https://pj.ninjal.ac.jp/corpus_center/bccwj/bcc-chu.html
+
+## キー負担率
+
+各キー／段／指の負担割合を可視化します。性質の異なる複数の文章（頻度表）に対して解析を行うことができます。
+
+- キー負担率: https://mobitan.github.io/keyboard-layout-comparison/heatmap.html
+
+ソースのコメントを外すと以下の語彙表を利用できます。
+
+- 出版・書籍
+- 出版・雑誌
+- 出版・新聞
+- 図書館・書籍
+- 特定目的・白書
+- 特定目的・教科書
+- 特定目的・広報紙
+- 特定目的・ベストセラー
+- 特定目的・Yahoo!知恵袋
+- 特定目的・Yahoo!ブログ
+- 特定目的・国会会議録
+
 ## 打鍵数の目安
 
 日本語入力方式の性能を比較します。
 
-- 例文にもとづく解析: https://mobitan.github.io/keyboard-layout-comparison/
 - 頻度表にもとづく解析: https://mobitan.github.io/keyboard-layout-comparison/freq.html
+- 例文にもとづく解析: https://mobitan.github.io/keyboard-layout-comparison/
 
 ## 打鍵時間の測定
 
