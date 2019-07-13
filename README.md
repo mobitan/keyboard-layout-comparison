@@ -31,6 +31,8 @@
 - 頻度表にもとづく解析: https://mobitan.github.io/keyboard-layout-comparison/freq.html
 - 例文にもとづく解析: https://mobitan.github.io/keyboard-layout-comparison/
 
+# ==========
+
 ## 打鍵時間の測定
 
 https://esrille.github.io/keyboard-layout-comparison/keytime.html
